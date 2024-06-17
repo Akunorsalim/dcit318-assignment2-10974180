@@ -12,6 +12,10 @@
     <Compile Remove="Shape\obj\Debug\net7.0\Shape.GlobalUsings.g.cs" />
     <Compile Remove="Shape\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
     <Compile Remove="Shape\obj\Debug\net7.0\Shape.AssemblyInfo.cs" />
+    <Compile Remove="IMovable\obj\Debug\net7.0\IMovable.GlobalUsings.g.cs" />
+    <Compile Remove="IMovable\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Remove="IMovable\obj\Debug\net7.0\IMovable.AssemblyInfo.cs" />
+    <Compile Remove="IMovable\Program.cs" />
     <Compile Remove="Shape\Program.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -24,5 +28,27 @@
     <None Remove="Shape\obj\Debug\net7.0\Shape.GeneratedMSBuildEditorConfig.editorconfig" />
     <None Remove="Shape\obj\Debug\net7.0\Shape.AssemblyInfoInputs.cache" />
     <None Remove="Shape\obj\Shape.csproj.nuget.g.targets" />
+    <None Remove="IMovable\obj\Debug\net7.0\IMovable.csproj.AssemblyReference.cache" />
+    <None Remove="IMovable\obj\IMovable.csproj.nuget.g.props" />
+    <None Remove="IMovable\obj\IMovable.csproj.nuget.g.targets" />
+    <None Remove="IMovable\obj\IMovable.csproj.nuget.dgspec.json" />
+    <None Remove="IMovable\obj\Debug\net7.0\IMovable.assets.cache" />
+    <None Remove="IMovable\obj\Debug\net7.0\IMovable.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Remove="IMovable\obj\Debug\net7.0\IMovable.AssemblyInfoInputs.cache" />
+    <None Remove="IMovable\obj\project.assets.json" />
+    <None Remove="IMovable\obj\project.nuget.cache" />
+    <None Remove="Shape\obj\Debug\net7.0\Shape.csproj.CoreCompileInputs.cache" />
+    <None Remove="Shape\obj\Debug\net7.0\Shape.dll" />
+    <None Remove="Shape\obj\Debug\net7.0\refint\Shape.dll" />
+    <None Remove="Shape\obj\Debug\net7.0\Shape.pdb" />
+    <None Remove="Shape\obj\Debug\net7.0\apphost" />
+    <None Remove="Shape\bin\Debug\net7.0\Shape" />
+    <None Remove="Shape\bin\Debug\net7.0\Shape.deps.json" />
+    <None Remove="Shape\obj\Debug\net7.0\Shape.genruntimeconfig.cache" />
+    <None Remove="Shape\bin\Debug\net7.0\Shape.runtimeconfig.json" />
+    <None Remove="Shape\bin\Debug\net7.0\Shape.dll" />
+    <None Remove="Shape\obj\Debug\net7.0\ref\Shape.dll" />
+    <None Remove="Shape\bin\Debug\net7.0\Shape.pdb" />
+    <None Remove="Shape\obj\Debug\net7.0\Shape.csproj.FileListAbsolute.txt" />
   </ItemGroup>
 </Project>

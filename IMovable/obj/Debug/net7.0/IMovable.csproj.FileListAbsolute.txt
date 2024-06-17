@@ -1,0 +1,15 @@
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/bin/Debug/net7.0/IMovable
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/bin/Debug/net7.0/IMovable.deps.json
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/bin/Debug/net7.0/IMovable.runtimeconfig.json
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/bin/Debug/net7.0/IMovable.dll
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/bin/Debug/net7.0/IMovable.pdb
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/IMovable.csproj.AssemblyReference.cache
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/IMovable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/IMovable.AssemblyInfoInputs.cache
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/IMovable.AssemblyInfo.cs
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/IMovable.csproj.CoreCompileInputs.cache
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/IMovable.dll
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/refint/IMovable.dll
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/IMovable.pdb
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/IMovable.genruntimeconfig.cache
+/Users/akunor/Projects/dcit318-assignment2-10974180/IMovable/obj/Debug/net7.0/ref/IMovable.dll
