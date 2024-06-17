@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dcit318-assignment2-10974180", "dcit318-assignment2-10974180.csproj", "{EDC9EB1A-2D74-4F3B-92FF-F104EFFA2FD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal.csproj", "{EDC9EB1A-2D74-4F3B-92FF-F104EFFA2FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMovable", "..\IMovable\IMovable.csproj", "{87AE8069-8CD2-463C-ABF3-7B1691515716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "..\Shape\Shape.csproj", "{8E260497-753E-46ED-BD34-B69D1E60A2DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{EDC9EB1A-2D74-4F3B-92FF-F104EFFA2FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDC9EB1A-2D74-4F3B-92FF-F104EFFA2FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDC9EB1A-2D74-4F3B-92FF-F104EFFA2FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AE8069-8CD2-463C-ABF3-7B1691515716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AE8069-8CD2-463C-ABF3-7B1691515716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AE8069-8CD2-463C-ABF3-7B1691515716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AE8069-8CD2-463C-ABF3-7B1691515716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E260497-753E-46ED-BD34-B69D1E60A2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E260497-753E-46ED-BD34-B69D1E60A2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E260497-753E-46ED-BD34-B69D1E60A2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E260497-753E-46ED-BD34-B69D1E60A2DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
