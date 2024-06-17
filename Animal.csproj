@@ -8,4 +8,21 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Shape\obj\Debug\net7.0\Shape.GlobalUsings.g.cs" />
+    <Compile Remove="Shape\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Remove="Shape\obj\Debug\net7.0\Shape.AssemblyInfo.cs" />
+    <Compile Remove="Shape\Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Shape\obj\Debug\net7.0\Shape.csproj.AssemblyReference.cache" />
+    <None Remove="Shape\obj\Shape.csproj.nuget.g.props" />
+    <None Remove="Shape\obj\project.assets.json" />
+    <None Remove="Shape\obj\project.nuget.cache" />
+    <None Remove="Shape\obj\Shape.csproj.nuget.dgspec.json" />
+    <None Remove="Shape\obj\Debug\net7.0\Shape.assets.cache" />
+    <None Remove="Shape\obj\Debug\net7.0\Shape.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Remove="Shape\obj\Debug\net7.0\Shape.AssemblyInfoInputs.cache" />
+    <None Remove="Shape\obj\Shape.csproj.nuget.g.targets" />
+  </ItemGroup>
 </Project>
